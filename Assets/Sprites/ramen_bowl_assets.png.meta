@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 83bbe86c87bb35743a62008a4ed15e5e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3976826659410105541
+    second: ramen_bowl_assets_0
+  - first:
+      213: 9121943408709219310
+    second: ramen_bowl_assets_1
+  - first:
+      213: -5733813101233067941
+    second: ramen_bowl_assets_2
+  - first:
+      213: 1223312001411981208
+    second: ramen_bowl_assets_3
+  - first:
+      213: 6556280395946044748
+    second: ramen_bowl_assets_4
+  - first:
+      213: 2294053543734579563
+    second: ramen_bowl_assets_5
+  - first:
+      213: 1216906364306641637
+    second: ramen_bowl_assets_6
+  - first:
+      213: -426156891504976335
+    second: ramen_bowl_assets_7
+  - first:
+      213: 4081191780242849167
+    second: ramen_bowl_assets_8
+  - first:
+      213: -1738866061458767183
+    second: ramen_bowl_assets_9
+  - first:
+      213: -6101800799581255052
+    second: ramen_bowl_assets_10
+  - first:
+      213: -764586220035970077
+    second: ramen_bowl_assets_11
+  - first:
+      213: 8648806258678151214
+    second: ramen_bowl_assets_12
+  - first:
+      213: 1503790482145905658
+    second: ramen_bowl_assets_13
+  - first:
+      213: -4104558460687400500
+    second: ramen_bowl_assets_14
+  - first:
+      213: -6804569064573492027
+    second: ramen_bowl_assets_15
+  - first:
+      213: -2609964796707027662
+    second: ramen_bowl_assets_16
+  - first:
+      213: -5279983620059535791
+    second: ramen_bowl_assets_17
+  - first:
+      213: 3730535464780177206
+    second: ramen_bowl_assets_18
+  - first:
+      213: 5826240210376400043
+    second: ramen_bowl_assets_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ramen_bowl_assets_0
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 225
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bae8039397fc8c0800000000000000
+      internalID: -3976826659410105541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bowl_assets_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 224
+        width: 40
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee334593337a79e70800000000000000
+      internalID: 9121943408709219310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bowl_assets_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 224
+        width: 40
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58a58c0d576d60b0800000000000000
+      internalID: -5733813101233067941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bowl_assets_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 158
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f12ada8c31af010800000000000000
+      internalID: 1223312001411981208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bowl_assets_4
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 177
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4da83098469cfa50800000000000000
+      internalID: 6556280395946044748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bowl_assets_5
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 175
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61960a2b8d16df10800000000000000
+      internalID: 2294053543734579563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bowl_assets_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 181
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2d86114e153e010800000000000000
+      internalID: 1216906364306641637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bowl_assets_7
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 174
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ed247a09cf51af0800000000000000
+      internalID: -426156891504976335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bowl_assets_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 108
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d7e911d4e43a830800000000000000
+      internalID: 4081191780242849167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bowl_assets_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 106
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b284cea78e4ed7e0800000000000000
+      internalID: -1738866061458767183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bowl_assets_10
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 111
+        width: 109
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ac3c2608c025ba0800000000000000
+      internalID: -6101800799581255052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bowl_assets_11
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 64
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebe89242e4a365f0800000000000000
+      internalID: -764586220035970077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bowl_assets_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28bfab087bb60870800000000000000
+      internalID: 8648806258678151214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bowl_assets_13
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 64
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb8be0e9798ed410800000000000000
+      internalID: 1503790482145905658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bowl_assets_14
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 62
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc147eea3dda907c0800000000000000
+      internalID: -4104558460687400500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bowl_assets_15
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 64
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c42c78ec705191a0800000000000000
+      internalID: -6804569064573492027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bowl_assets_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 31
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235c00878da87cbd0800000000000000
+      internalID: -2609964796707027662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bowl_assets_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 31
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15668724fdab9b6b0800000000000000
+      internalID: -5279983620059535791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bowl_assets_18
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 31
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f18307d3685c330800000000000000
+      internalID: 3730535464780177206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ramen_bowl_assets_19
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac15934a96fad050800000000000000
+      internalID: 5826240210376400043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a208486675cb3fa438a775aef5f487e2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ramen_bowl_assets_0: -3976826659410105541
+      ramen_bowl_assets_1: 9121943408709219310
+      ramen_bowl_assets_10: -6101800799581255052
+      ramen_bowl_assets_11: -764586220035970077
+      ramen_bowl_assets_12: 8648806258678151214
+      ramen_bowl_assets_13: 1503790482145905658
+      ramen_bowl_assets_14: -4104558460687400500
+      ramen_bowl_assets_15: -6804569064573492027
+      ramen_bowl_assets_16: -2609964796707027662
+      ramen_bowl_assets_17: -5279983620059535791
+      ramen_bowl_assets_18: 3730535464780177206
+      ramen_bowl_assets_19: 5826240210376400043
+      ramen_bowl_assets_2: -5733813101233067941
+      ramen_bowl_assets_3: 1223312001411981208
+      ramen_bowl_assets_4: 6556280395946044748
+      ramen_bowl_assets_5: 2294053543734579563
+      ramen_bowl_assets_6: 1216906364306641637
+      ramen_bowl_assets_7: -426156891504976335
+      ramen_bowl_assets_8: 4081191780242849167
+      ramen_bowl_assets_9: -1738866061458767183
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

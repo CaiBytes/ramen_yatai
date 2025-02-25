@@ -1,40 +1,37 @@
 fileFormatVersion: 2
-guid: 9dfb7dd97f42d2043b9d8871ee62afad
+guid: 39abf24c4f2227242a6d9b50ab7e23a9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6773713371233527877
-    second: start_buttons 1_0
+      213: 5828409781656312803
+    second: start_buttons_0
   - first:
-      213: 7118606127956014841
-    second: start_buttons 1_1
+      213: 4650610878653712419
+    second: start_buttons_1
   - first:
-      213: 5189341120459986389
-    second: start_buttons 1_2
+      213: 1302440765833259093
+    second: start_buttons_2
   - first:
-      213: 95357985486557792
-    second: start_buttons 1_3
+      213: 2093125170838941418
+    second: start_buttons_3
   - first:
-      213: -7419204108342520289
-    second: start_buttons 1_4
+      213: 437125643439342354
+    second: start_buttons_4
   - first:
-      213: -8048988032159937234
-    second: start_buttons 1_5
+      213: 6649335496487058841
+    second: start_buttons_5
   - first:
-      213: -4644818684166086516
-    second: start_buttons 1_6
+      213: -4274239189549523774
+    second: start_buttons_6
   - first:
-      213: -5640115607599412996
-    second: start_buttons 1_7
+      213: 6692997275847522269
+    second: start_buttons_7
   - first:
-      213: 5789445570580567640
-    second: start_buttons 1_8
+      213: 7086184625876565852
+    second: start_buttons_8
   - first:
-      213: -333350728936232542
-    second: start_buttons 1_9
-  - first:
-      213: 708534847987061617
-    second: start_buttons 1_10
+      213: -3718474927750522256
+    second: start_buttons_9
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -143,7 +140,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: start_buttons 1_0
+      name: start_buttons_0
       rect:
         serializedVersion: 2
         x: 11
@@ -158,14 +155,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bb7df49d39feef1a0800000000000000
-      internalID: -6773713371233527877
+      spriteID: 3eb5901f0dba2e050800000000000000
+      internalID: 5828409781656312803
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: start_buttons 1_1
+      name: start_buttons_1
       rect:
         serializedVersion: 2
         x: 111
@@ -180,14 +177,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9f6bcb0be8e5ac260800000000000000
-      internalID: 7118606127956014841
+      spriteID: 328c8b244f94a8040800000000000000
+      internalID: 4650610878653712419
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: start_buttons 1_2
+      name: start_buttons_2
       rect:
         serializedVersion: 2
         x: 224
@@ -202,14 +199,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5d55857314e340840800000000000000
-      internalID: 5189341120459986389
+      spriteID: 558aa74d9f2331210800000000000000
+      internalID: 1302440765833259093
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: start_buttons 1_3
+      name: start_buttons_3
       rect:
         serializedVersion: 2
         x: 11
@@ -224,14 +221,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0625c632597c25100800000000000000
-      internalID: 95357985486557792
+      spriteID: aeea846c0464c0d10800000000000000
+      internalID: 2093125170838941418
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: start_buttons 1_4
+      name: start_buttons_4
       rect:
         serializedVersion: 2
         x: 88
@@ -246,14 +243,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f16102e0c21b90990800000000000000
-      internalID: -7419204108342520289
+      spriteID: 2138a6be47bf01600800000000000000
+      internalID: 437125643439342354
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: start_buttons 1_5
+      name: start_buttons_5
       rect:
         serializedVersion: 2
         x: 224
@@ -268,14 +265,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e2d8cb5b7004c4090800000000000000
-      internalID: -8048988032159937234
+      spriteID: 99db184876f274c50800000000000000
+      internalID: 6649335496487058841
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: start_buttons 1_6
+      name: start_buttons_6
       rect:
         serializedVersion: 2
         x: 11
@@ -290,14 +287,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c80ee2c140a4a8fb0800000000000000
-      internalID: -4644818684166086516
+      spriteID: 2ccd8dd5a1adea4c0800000000000000
+      internalID: -4274239189549523774
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: start_buttons 1_7
+      name: start_buttons_7
       rect:
         serializedVersion: 2
         x: 88
@@ -312,14 +309,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cf886ecccb84ab1b0800000000000000
-      internalID: -5640115607599412996
+      spriteID: dd77c85bf8d42ec50800000000000000
+      internalID: 6692997275847522269
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: start_buttons 1_8
+      name: start_buttons_8
       rect:
         serializedVersion: 2
         x: 224
@@ -334,36 +331,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 856d9e8921e385050800000000000000
-      internalID: 5789445570580567640
+      spriteID: c5ff43e7f5f275260800000000000000
+      internalID: 7086184625876565852
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: start_buttons 1_9
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 16
-        width: 17
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2a963283743bf5bf0800000000000000
-      internalID: -333350728936232542
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: start_buttons 1_10
+      name: start_buttons_9
       rect:
         serializedVersion: 2
         x: 224
@@ -378,8 +353,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1731145b0b835d900800000000000000
-      internalID: 708534847987061617
+      spriteID: 07adb3921c2556cc0800000000000000
+      internalID: -3718474927750522256
       vertices: []
       indices: 
       edges: []
@@ -388,7 +363,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 3400297be53dbfe448a607e1e7bf9009
+    spriteID: 1683fe9767734734aa60f480cd246e4e
     internalID: 0
     vertices: []
     indices: 
@@ -398,17 +373,16 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      start_buttons 1_0: -6773713371233527877
-      start_buttons 1_1: 7118606127956014841
-      start_buttons 1_10: 708534847987061617
-      start_buttons 1_2: 5189341120459986389
-      start_buttons 1_3: 95357985486557792
-      start_buttons 1_4: -7419204108342520289
-      start_buttons 1_5: -8048988032159937234
-      start_buttons 1_6: -4644818684166086516
-      start_buttons 1_7: -5640115607599412996
-      start_buttons 1_8: 5789445570580567640
-      start_buttons 1_9: -333350728936232542
+      start_buttons_0: 5828409781656312803
+      start_buttons_1: 4650610878653712419
+      start_buttons_2: 1302440765833259093
+      start_buttons_3: 2093125170838941418
+      start_buttons_4: 437125643439342354
+      start_buttons_5: 6649335496487058841
+      start_buttons_6: -4274239189549523774
+      start_buttons_7: 6692997275847522269
+      start_buttons_8: 7086184625876565852
+      start_buttons_9: -3718474927750522256
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

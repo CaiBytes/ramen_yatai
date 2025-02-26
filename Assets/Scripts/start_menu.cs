@@ -8,7 +8,7 @@ public class StartMenu : MonoBehaviour
     public GameObject selectionMenu;
     public TMP_InputField userInputStoreName;
     public string storeName;
-    private string selectedSeason = "";
+    public static string selectedSeason = "";
 
 
     private void Start()

@@ -1,11 +1,15 @@
 using UnityEngine;
 using TMPro;
+using UnityEngine.SceneManagement;
+using JetBrains.Annotations;
 
 public class StartMenu : MonoBehaviour
 {
     public GameObject selectionMenu;
     public TMP_InputField userInputStoreName;
     public string storeName;
+    private string selectedSeason = "";
+
 
     private void Start()
     {
@@ -35,10 +39,31 @@ public class StartMenu : MonoBehaviour
         }
     }
 
+    public void SelectSpring()
+    {
+        selectedSeason = "spring";
+        Debug.Log("Spring selected");
+    }
+    public void SelectWinter()
+    {
+        selectedSeason = "winter";
+        Debug.Log("Winter selected");
+    }
+
+
     public void StartGame()
     {
         storeName = userInputStoreName.text;
         Debug.LogWarning(storeName);
+
+        if(selectedSeason == "spring")
+        {
+            SceneManager.LoadScene("customer_view");
+        }
+        else if (selectedSeason == "winter")
+        {
+            SceneManager.LoadScene("winter_view");
+        }
     }
 }
 

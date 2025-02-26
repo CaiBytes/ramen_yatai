@@ -266,8 +266,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 517629025}
-        m_TargetAssemblyTypeName: quit_button, Assembly-CSharp
+      - m_Target: {fileID: 517629024}
+        m_TargetAssemblyTypeName: Navigation, Assembly-CSharp
         m_MethodName: quit_game
         m_Mode: 1
         m_Arguments:
@@ -329,7 +329,6 @@ GameObject:
   - component: {fileID: 517629021}
   - component: {fileID: 517629020}
   - component: {fileID: 517629024}
-  - component: {fileID: 517629025}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -430,19 +429,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 517629019}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dc2e6f8ff86befc46979a68ff3f02dbb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &517629025
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 517629019}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 702e457d6c2422e46a45a9e2151e4f9a, type: 3}
+  m_Script: {fileID: 11500000, guid: 8b1764021081448cfaefd5a1b8251321, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &519420028
@@ -829,7 +816,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 517629024}
-        m_TargetAssemblyTypeName: kitchen_button, Assembly-CSharp
+        m_TargetAssemblyTypeName: Navigation, Assembly-CSharp
         m_MethodName: kitchen_view
         m_Mode: 1
         m_Arguments:

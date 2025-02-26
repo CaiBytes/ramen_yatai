@@ -1,14 +1,81 @@
 using UnityEngine;
-using UnityEngine.SceneManagement;
+using TMPro;
 
-//this code is not functioning presently
-using System.Collections;
-public class start_menu : MonoBehaviour {
-    public GameObject popupContainer;  // The container for the popup
-    public SceneReference selection_menu;  // The scene containing the popup UI
+public class StartMenu : MonoBehaviour
+{
+    public GameObject selectionMenu;
+    public TMP_InputField userInputStoreName;
+    public string storeName;
 
-    public void new_game() {
-        SceneManager sceneManager = SceneManager.instance;
-        sceneManager.AdditiveScene(popupScene, "Popup");
+    private void Start()
+    {
+        if (selectionMenu != null)
+        {
+            selectionMenu.SetActive(false); // Ensures the selection menu is hidden at the start
+        }
+        else
+        {
+            Debug.LogWarning("Selection menu GameObject is not assigned in the Inspector.");
+        }
+    }
+
+    public void LaunchSelection()
+    {
+        if (selectionMenu != null)
+        {
+            selectionMenu.SetActive(!selectionMenu.activeSelf); // Toggle visibility
+        }
+    }
+
+    public void CloseSelection()
+    {
+        if (selectionMenu != null)
+        {
+            selectionMenu.SetActive(!selectionMenu.activeSelf);
+        }
+    }
+
+    public void StartGame()
+    {
+        storeName = userInputStoreName.text;
+        Debug.LogWarning(storeName);
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

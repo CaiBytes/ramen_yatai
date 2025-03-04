@@ -23,7 +23,7 @@ public class Timer : MonoBehaviour
 
     public void GameOver()
     {
-        Debug.Log("Game Over Bitch!");
+        Debug.Log("Game Over");
         gameRunning = false;
         orderGenerator.StopOrders();
     }

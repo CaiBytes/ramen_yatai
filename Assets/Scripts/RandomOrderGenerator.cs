@@ -10,10 +10,12 @@ public class RandomOrderGenerator : MonoBehaviour
     public string currentOrder = "";
     List<string> orderList = new List<string>();
 
-    [SerializeField] Timer timer; // Reference to Timer script
+    //[SerializeField] Timer timer; // Reference to Timer script
+    private Timer timer;
 
     private void Start()
     {
+        timer = GetComponent<Timer>();
         StartCoroutine(OrderRoutine());
     }
 
@@ -22,10 +24,10 @@ public class RandomOrderGenerator : MonoBehaviour
         // Generate the first order within the first 5 seconds
         yield return new WaitForSeconds(Random.Range(1f, 5f));
         GenerateOrder();
+        Debug.Log("order made");
 
         while (timer.gameRunning)
         {
-            Debug.Log(timer.gameRunning);
             // Wait for the next 20-second block
             yield return new WaitForSeconds(20f);
 
@@ -37,6 +39,7 @@ public class RandomOrderGenerator : MonoBehaviour
                 float randomDelay = Random.Range(2f, 6f); // Random delay before each order
                 yield return new WaitForSeconds(randomDelay);
                 GenerateOrder();
+                Debug.Log("order made");
             }
         }
     }
@@ -62,7 +65,7 @@ public class RandomOrderGenerator : MonoBehaviour
 
     public void StopOrders()
     {
-        Debug.Log(orderList);
+        Debug.Log("List of Orders: " + string.Join(" - ", orderList));
         StopAllCoroutines();
     }
 }

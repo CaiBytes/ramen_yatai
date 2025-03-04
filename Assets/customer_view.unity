@@ -663,6 +663,7 @@ GameObject:
   m_Component:
   - component: {fileID: 694596943}
   - component: {fileID: 694596942}
+  - component: {fileID: 694596944}
   m_Layer: 0
   m_Name: OrderManager
   m_TagString: Untagged
@@ -690,7 +691,7 @@ MonoBehaviour:
   - Soft-boiled Egg
   - Fish Cake
   - Pork
-  timer: {fileID: 1514214942}
+  currentOrder: 
 --- !u!4 &694596943
 Transform:
   m_ObjectHideFlags: 0
@@ -706,6 +707,21 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &694596944
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 694596941}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0935149672b5c84ca14e6a1faa554ca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  orderGenerator: {fileID: 0}
+  remainingTime: 0
+  gameRunning: 1
 --- !u!1 &970144509
 GameObject:
   m_ObjectHideFlags: 0
@@ -853,7 +869,7 @@ MonoBehaviour:
   - Soft-boiled Egg
   - Fish Cake
   - Pork Belly
-  timer: {fileID: 0}
+  currentOrder: 
 --- !u!1 &2146910546
 GameObject:
   m_ObjectHideFlags: 0

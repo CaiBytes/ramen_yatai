@@ -1,28 +1,31 @@
 fileFormatVersion: 2
-guid: 87f48b0b7c1f70e4aaa80e6f1a8af0a8
+guid: 34e8afe863edc3c47b51dcce2741fc46
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2864342440962223611
-    second: customer1_0
+      213: 608960244248822192
+    second: customer2_0
   - first:
-      213: 5354699809376517124
-    second: customer1_1
+      213: -3039822449130746661
+    second: customer2_1
   - first:
-      213: 5310087524815993976
-    second: customer1_2
+      213: 113843127378799942
+    second: customer2_2
   - first:
-      213: 449863995084728734
-    second: customer1_3
+      213: -6142579943800243524
+    second: customer2_3
   - first:
-      213: -9087781169640900100
-    second: customer1_4
+      213: -6730988680670418255
+    second: customer2_4
   - first:
-      213: -5159971946355418408
-    second: customer1_5
+      213: 9183415922729697293
+    second: customer2_5
   - first:
-      213: -1234449791292432614
-    second: customer1_6
+      213: 8391471878436462409
+    second: customer2_6
+  - first:
+      213: 4382541820531913578
+    second: customer2_7
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -131,7 +134,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: customer1_0
+      name: customer2_0
       rect:
         serializedVersion: 2
         x: 25
@@ -146,14 +149,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bfde0ac264030c720800000000000000
-      internalID: 2864342440962223611
+      spriteID: 0b149c0ad16737800800000000000000
+      internalID: 608960244248822192
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: customer1_1
+      name: customer2_1
       rect:
         serializedVersion: 2
         x: 153
@@ -168,14 +171,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 40c3db03b17bf4a40800000000000000
-      internalID: 5354699809376517124
+      spriteID: bdccd43969160d5d0800000000000000
+      internalID: -3039822449130746661
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: customer1_2
+      name: customer2_2
       rect:
         serializedVersion: 2
         x: 281
@@ -190,14 +193,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 87cf3e2487831b940800000000000000
-      internalID: 5310087524815993976
+      spriteID: 64d688f98b3749100800000000000000
+      internalID: 113843127378799942
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: customer1_3
+      name: customer2_3
       rect:
         serializedVersion: 2
         x: 409
@@ -212,14 +215,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e9963488bec3e3600800000000000000
-      internalID: 449863995084728734
+      spriteID: cbaf85df51c21caa0800000000000000
+      internalID: -6142579943800243524
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: customer1_4
+      name: customer2_4
       rect:
         serializedVersion: 2
         x: 25
@@ -234,14 +237,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cf9f113ec27b1e180800000000000000
-      internalID: -9087781169640900100
+      spriteID: 1bae67d0579b692a0800000000000000
+      internalID: -6730988680670418255
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: customer1_5
+      name: customer2_5
       rect:
         serializedVersion: 2
         x: 153
@@ -256,19 +259,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8da118e7ad81468b0800000000000000
-      internalID: -5159971946355418408
+      spriteID: d0048fa302c027f70800000000000000
+      internalID: 9183415922729697293
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: customer1_6
+      name: customer2_6
       rect:
         serializedVersion: 2
         x: 10
         y: 144
-        width: 76
+        width: 74
         height: 106
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -278,8 +281,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a1f95f8847a5edee0800000000000000
-      internalID: -1234449791292432614
+      spriteID: 94f92e8a63f747470800000000000000
+      internalID: 8391471878436462409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: customer2_7
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 142
+        width: 69
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63391ae09ae1dc30800000000000000
+      internalID: 4382541820531913578
       vertices: []
       indices: 
       edges: []
@@ -288,7 +313,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 6936970192f5b4144b31d051b5ec4a40
+    spriteID: b41c58918b54b554ead36ee92be9acb3
     internalID: 0
     vertices: []
     indices: 
@@ -298,13 +323,14 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      customer1_0: 2864342440962223611
-      customer1_1: 5354699809376517124
-      customer1_2: 5310087524815993976
-      customer1_3: 449863995084728734
-      customer1_4: -9087781169640900100
-      customer1_5: -5159971946355418408
-      customer1_6: -1234449791292432614
+      customer2_0: 608960244248822192
+      customer2_1: -3039822449130746661
+      customer2_2: 113843127378799942
+      customer2_3: -6142579943800243524
+      customer2_4: -6730988680670418255
+      customer2_5: 9183415922729697293
+      customer2_6: 8391471878436462409
+      customer2_7: 4382541820531913578
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
